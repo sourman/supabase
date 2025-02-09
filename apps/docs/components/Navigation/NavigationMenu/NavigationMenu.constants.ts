@@ -2088,18 +2088,6 @@ export const platform: NavMenuConstant = {
           url: '/guides/platform/manage-your-subscription',
         },
         {
-          name: 'Credits',
-          url: '/guides/platform/credits',
-        },
-        {
-          name: 'Your monthly invoice',
-          url: '/guides/platform/your-monthly-invoice',
-        },
-        {
-          name: 'Control your costs',
-          url: '/guides/platform/cost-control',
-        },
-        {
           name: 'Manage your usage',
           url: '/guides/platform/manage-your-usage',
           items: [
@@ -2180,6 +2168,18 @@ export const platform: NavMenuConstant = {
               url: '/guides/platform/manage-your-usage/branching',
             },
           ],
+        },
+        {
+          name: 'Your monthly invoice',
+          url: '/guides/platform/your-monthly-invoice',
+        },
+        {
+          name: 'Control your costs',
+          url: '/guides/platform/cost-control',
+        },
+        {
+          name: 'Credits',
+          url: '/guides/platform/credits',
         },
         {
           name: 'Billing FAQ',
